@@ -7,6 +7,8 @@ This example was used for the demo in my talk, Google Women Techmakers Manila 20
 
 Accompanying slides can be found here: [Google Slides Link](https://drive.google.com/drive/folders/1eOMa453oEpT-ee883zlriBrHvsiRK5HI?usp=sharing)
 
+Recorded video of the talk can be foud here: [AI Life Cycle Talk Link](https://www.youtube.com/watch?v=Fmsgn3Mkzjc&t=6230s)
+
 ## I. Project Setup
 
 1. Creating python virtual env
